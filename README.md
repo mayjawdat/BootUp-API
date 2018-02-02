@@ -1,8 +1,6 @@
 <img src="https://github.com/DBC-BootUp/BootUp-API/blob/development/BootUpLogo2.png" width="250" />
 
-## BootUp-API
-
-## An interview support repository created for boots, by boots
+### An interview support repository created for boots, by boots
 BootUp is an app that allows DBC graduates to connect with each other and share information, tips, and strategies about the job search. Through BootUp, boots can read reviews of the interview process at specific companies, written by other boots.
 
 ## Tech Stack
