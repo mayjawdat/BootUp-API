@@ -1,4 +1,4 @@
-![BootUp logo](https://github.com/DBC-BootUp/BootUp-API/blob/development/BootUpLogo2.png =250x)
+<img src="https://github.com/DBC-BootUp/BootUp-API/blob/development/BootUpLogo2.png" width="250" />
 
 ## BootUp-API
 
